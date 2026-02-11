@@ -1,0 +1,17 @@
+# Vim swap files
+*.swp
+*.swo
+*~
+
+# Python
+*.pyc
+__pycache__/
+
+# Backup files
+*.bak
+*.orig
+
+# Build artifacts that might accidentally end up here
+*.o
+*.a
+*.so
