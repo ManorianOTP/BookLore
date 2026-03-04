@@ -6,6 +6,7 @@ inherit core-image
 IMAGE_INSTALL += " \
     booklore-hello \
     booklore-init \
+    booklore-testdata \
 "
 
 IMAGE_INSTALL += " \
